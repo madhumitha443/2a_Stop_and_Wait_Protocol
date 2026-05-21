@@ -39,7 +39,9 @@ while True:
 ## OUTPUT
 CLIENT:
 <img width="947" height="352" alt="Screenshot 2026-05-21 132509" src="https://github.com/user-attachments/assets/83e3a490-ec05-4f1f-83dd-1da6b8b6e951" />
+
 SERVER: 
+
 <img width="893" height="238" alt="Screenshot 2026-05-21 132447" src="https://github.com/user-attachments/assets/e5ef0cd4-7c24-42a2-960d-0d47fd36e640" />
 
 ## RESULT
